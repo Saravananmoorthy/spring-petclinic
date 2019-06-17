@@ -37,7 +37,9 @@
    </repository>
 </distributionManagement>
 <scm>
-        <developerConnection>scm:svn:https://github.com/Saravananmoorthy/spring-petclinic/tree/maven-release</developerConnection>
+        <connection>scm:git:https://github.com/Saravananmoorthy/spring-petclinic</connection>
+        <url>http://github.com/Saravananmoorthy/spring-petclinic</url>
+        <developerConnection>scm:git:https://github.com/Saravananmoorthy/spring-petclinic.git</developerConnection>
  </scm>
  
   <dependencies>
