@@ -37,8 +37,6 @@
    </repository>
 </distributionManagement>
 <scm>
-        <connection>scm:git:https://github.com/Saravananmoorthy/spring-petclinic.git</connection>
-        <url>http://github.com/Saravananmoorthy/spring-petclinic</url>
         <developerConnection>scm:git:https://github.com/Saravananmoorthy/spring-petclinic.git</developerConnection>
  </scm>
  
