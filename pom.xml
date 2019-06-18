@@ -37,7 +37,8 @@
    </repository>
 </distributionManagement>
 <scm>
-        <developerConnection>scm:git:https://${GIT_USERNAME}:${GIT_PASSWORD}@github.com/Saravananmoorthy/spring-petclinic.git</developerConnection>
+         <connection>scm:git:https://${GIT_USERNAME}:${GIT_PASSWORD}@github.com/Saravananmoorthy/spring-petclinic.git</connection>
+        <developerConnection>scm:git:https://github.com/Saravananmoorthy/spring-petclinic.git</developerConnection>
  </scm>
  
   <dependencies>
